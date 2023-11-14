@@ -47,7 +47,28 @@ ______________________
 * First condition is true 
 * Second condition is true 
 * All conditions are false
-________________
+________________________
+# FUNCTIONS
+![Alt text](image-8.png)
+___________________________
+### There are 3 ways to writing a functions in JavaScript 
+----------
+* FUNCTION DECLARATION 
+-------------------
+![Alt text](image-9.png)
+_____________
+### The function declaration defines a function with the specified
+### 
+### parameters. A function is declared using the function keyword. The basic rules of naming a are similar function to naming a variable
+---------------------------
+* FUNCTION EXPRESSION
+-----------------------------
+![Alt text](image-10.png)
+_________________
+### A function expression is very similar to and has almost the same syntax as a function declaration.The main difference between a function expression and a function declaration is the function name.
+------------------------------
+
+
 
 
 
