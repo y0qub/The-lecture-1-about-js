@@ -26,7 +26,7 @@ _____________________________
 ## 2.-LET
 ## 3.-CONST
 --------------------
-    In Javascript there is two types of intializing variables, **VAR** and **LET**.
+    In Javascript there is two types of intializing variables, VAR and LET.
      You can use both of them. 
     However, there are some differences between them.
 
