@@ -29,7 +29,10 @@ ______________________________
 In Javascript there is two types of intializing variables, **VAR** and **LET**. You can use both of them.
 However, there are some differences between them.
 ________________________________________
-    Javascript If you are sure that the value of a variables won't change throughout the program, it's recommended to use CONST.
+    Javascript If you are sure that the 
+    value of a variables won't change
+     throughout the program, 
+    it's recommended to use CONST.
 --------------------------
 # ``JAVASCRIPT OBJECTS AND PRIMITIVES``
 ![Alt text](image-4.png)
