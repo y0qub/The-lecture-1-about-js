@@ -14,7 +14,7 @@ ______________________
 ### Brendan Eich creates the very first version of javascript in just 10 days in 1995. It was called Mocha.
 ------------------------
 ### Mocha changes to LiveServer 1996.  
-Microsoft launches IE, copying JavaScript from NetScape and calling it JScript; 
+### Microsoft launches IE, copying JavaScript from NetScape and calling it JScript; 
 ________________________
 ![Alt text](image-2.png)
 # ``Javascript releases``
