@@ -73,6 +73,7 @@ _________________
 __________
 ### An IIFE (Immediately Invoked Function Expression) is a function that runs the moment it is invoked or called in the JavaScript event loop.Having a function that behaves that way can be useful in certain situations.
 ____________________
+![Alt text](image-12.png)
 
 
 
