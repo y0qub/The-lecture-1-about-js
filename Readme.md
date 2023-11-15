@@ -48,12 +48,12 @@ ______________________
 * Second condition is true 
 * All conditions are false
 ________________________
-# FUNCTIONS
+# ``FUNCTIONS``
 ![Alt text](image-8.png)
 ___________________________
 ### There are 3 ways to writing a functions in JavaScript 
 ----------
-* FUNCTION DECLARATION 
+* ``FUNCTION DECLARATION`` 
 -------------------
 ![Alt text](image-9.png)
 _____________
@@ -61,13 +61,18 @@ _____________
 ### 
 ### parameters. A function is declared using the function keyword. The basic rules of naming a are similar function to naming a variable
 ---------------------------
-* FUNCTION EXPRESSION
+* ``FUNCTION EXPRESSION``
 -----------------------------
 ![Alt text](image-10.png)
 _________________
 ### A function expression is very similar to and has almost the same syntax as a function declaration.The main difference between a function expression and a function declaration is the function name.
 ------------------------------
-
+* ``FUNCTION IIFE``
+_________________
+![Alt text](image-11.png)
+__________
+### An IIFE (Immediately Invoked Function Expression) is a function that runs the moment it is invoked or called in the JavaScript event loop.Having a function that behaves that way can be useful in certain situations.
+____________________
 
 
 
